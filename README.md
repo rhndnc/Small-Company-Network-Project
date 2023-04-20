@@ -1,1 +1,9 @@
 # Small-Company-Network-Project
+TECHNOLOGIES IMPLEMENTED:
+
+-IP ADDRESSING
+-VLAN
+-OSPF
+-NAT
+-VTP
+-DHCP
